@@ -40,7 +40,7 @@ Reflexiona sobre lo aprendido al completar el proyecto y anótalo aquí. Ejemplo
 
 ## 🔗 Vista en Vivo
 
-Haz clic aquí para ver tu proyecto en acción: [Demo en vivo](url-de-tu-vista-en-vivo)
+Haz clic aquí para ver tu proyecto en acción: [Demo en vivo](https://victoracosta96.github.io/qr-code/)
 
 ## 🔥 Publicidad de AprendeFrontend.com
 
